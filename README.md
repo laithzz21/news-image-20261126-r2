@@ -1,8 +1,8 @@
 # THE WORLD TODAY — Thursday 26 November 2026
 
-[![make.fun](https://make.fun/badge/news-image-20261126-r2.svg)](https://make.fun/bounty/news-image-20261126-r2?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126-r2)
-[![Rank](https://make.fun/badge/news-image-20261126-r2/laithzz21/news-image-20261126-r2/rank.svg)](https://make.fun/bounty/news-image-20261126-r2/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126-r2)
-[![Reward](https://make.fun/badge/news-image-20261126-r2/laithzz21/news-image-20261126-r2/reward.svg)](https://make.fun/bounty/news-image-20261126-r2?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126-r2)
+[![make.fun](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![Rank](https://make.fun/badge/news-image-20261126/laithzz21/news-image-20261126-r2/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![Reward](https://make.fun/badge/news-image-20261126/laithzz21/news-image-20261126-r2/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
 Entry for the make.fun bounty
 [news-image-20261126](https://make.fun/bounty/news-image-20261126):
